@@ -1,0 +1,6 @@
+Product,Price,InStock,Rating,Sales_Last_6_Months,Website,Image
+Laptop,1200.5,True,4.5,"[10, 12, 15, 11, 13, 16]",https://www.techstore.com/laptop,"https://m.media-amazon.com/images/I/711jgF2LHPL.jpg"
+Mouse,25.99,True,3.8,"[20, 18, 22, 25, 23, 21]",https://www.techstore.com/mouse,"https://m.media-amazon.com/images/I/61hzuoXwjqL.jpg"
+Keyboard,75.0,False,2.1,"[5, 4, 3, 6, 7, 8]",https://www.techstore.com/keyboard,"https://m.media-amazon.com/images/I/61zJbT8J3SL._UF1000,1000_QL80_.jpg"
+Monitor,300.75,True,4.9,"[8, 9, 10, 12, 11, 13]",https://www.techstore.com/monitor,"https://m.media-amazon.com/images/I/710ZLpqfQeL.jpg"
+Webcam,49.99,False,3.2,"[15, 14, 16, 17, 18, 19]",https://www.techstore.com/webcam,"https://m.media-amazon.com/images/I/61-K2lXmHQL._UF1000,1000_QL80_.jpg"
