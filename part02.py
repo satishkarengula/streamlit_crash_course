@@ -45,6 +45,6 @@ population = pd.read_csv("world_population.csv").set_index("year")
 
 selected_countries = st.multiselect("Select Countries", options=population.columns.to_list())
 
-st.dataframe(population[selected_countries] if selected_countries else df)
+st.dataframe(population[selected_countries] if selected_countries else population)
 
-st.area_chart(population[selected_countries] if selected_countries else df)
+st.area_chart(population[selected_countries] if selected_countries else population)
